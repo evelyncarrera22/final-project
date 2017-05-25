@@ -1,8 +1,16 @@
-body{	
-    background-color:#40E0D0;
-    }
-h1{
+body {
+    background-color: #40E0D0;
+}
+
+h1 {
     text-align: center;
-    }
+}
+
 .nav nav-tabs
+
+.jumbotron {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
 
